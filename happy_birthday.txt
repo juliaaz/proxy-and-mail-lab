@@ -1,0 +1,3 @@
+Hi, %NAME%!
+Happy %AGE%-th anniversary!
+You now are %AGE% years old.

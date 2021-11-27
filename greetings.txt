@@ -1,0 +1,1 @@
+Hi %NAME%! Have a great day!
